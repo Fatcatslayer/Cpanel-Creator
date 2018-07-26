@@ -1,0 +1,15 @@
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Cpanel Creator.exe.config
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel Creator.csprojResolveAssemblyReference.cache
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel_Creator.Form1.resources
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel_Creator.Properties.Resources.resources
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel Creator.csproj.GenerateResource.Cache
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Cpanel Creator.exe
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Cpanel Creator.pdb
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel Creator.exe
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel Creator.pdb
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Cpanel Creator.exe.manifest
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\bin\Debug\Cpanel Creator.application
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel Creator.exe.manifest
+C:\Users\shref\Desktop\Cpanel Creator\Cpanel Creator\obj\Debug\Cpanel Creator.application
